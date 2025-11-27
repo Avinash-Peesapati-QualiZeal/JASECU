@@ -1,0 +1,1 @@
+robot -d Results -i Functional Tests/Web
